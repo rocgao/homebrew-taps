@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class rlive < Formula
+class Rlive < Formula
   desc ""
   homepage ""
   url "https://github.com/rocgao/rlive/releases/download/0.1.0/rlive-mac-0.1.0.tar.gz"
