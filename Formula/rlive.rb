@@ -4,7 +4,7 @@
 class Rlive < Formula
   desc ""
   homepage ""
-  url "https://github.com/rocgao/rlive/releases/download/0.1.0/rlive-mac-0.1.0.tar.gz"
+  url "http://qiniu.rocgao.com/forumla/rlive-mac-0.1.0.tar.gz"
   sha256 "b83d6654b769e82d20e1b6814d99deb393002ddabaee39061a3b9dff5ffb9f36"
   license ""
 
